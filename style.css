@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;    
+}
+h1{
+    font-size: 50px;
+}
+.asd{
+    color: yellowgreen;
+}
+section{
+    display: flex;
+}
+.dsa{
+    width: 50%;
+    padding-left: 8%;
+}
+.dsa img{
+    width: 85%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(forestgreen,yellowgreen);
+    color: black;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.top-qwe{
+    background-image:url(images/developer.png);
+    background-repeat: no-repeat;    
+}
