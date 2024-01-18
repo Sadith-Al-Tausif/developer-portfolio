@@ -1,5 +1,6 @@
 body{
-    font-family: 'Poppins', sans-serif;    
+    font-family: 'Poppins', sans-serif;
+    margin: 0;    
 }
 h1{
     font-size: 50px;
@@ -9,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 65px;
 }
 .dsa{
     width: 50%;
@@ -28,4 +30,19 @@ section{
 .top-qwe{
     background-image:url(images/developer.png);
     background-repeat: no-repeat;    
+}
+.poi{
+    color: yellowgreen;
+}
+.zxc{
+    width: 50%;
+    padding-left: 5%;
+}
+.zxc img{
+    width: 100%;
+}
+.top-ewq{
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
