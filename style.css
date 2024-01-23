@@ -20,8 +20,8 @@ h1{
     width: 85%;
 }
 .top-qwe{
-    background-image:url(images/developer.png);
-    background-repeat: no-repeat;    
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;   
 }
 .poi{
     color: yellowgreen;
@@ -34,13 +34,25 @@ h1{
     width: 100%;
 }
 .top-ewq{
-    background-image: url(images/header_bg.png);
+    background-image: url(images/header_bg\ -\ Copy.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right 5px;
 }
 .mnb{
-    width: 45%;
-    padding-left: 5%;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 12px;
+    padding-right: 4px;
+    border-radius: 2.5px;
+    box-shadow: 10px 10px 30px black;
+    border-left: 7px solid rgb(124, 248, 124);
+}
+#frist-mnb{
+    border-left: 7px solid forestgreen;
+}
+#second-mnb{
+    border-left: 7px solid yellowgreen;
 }
 .link-button{
     text-decoration: none;
@@ -49,4 +61,19 @@ h1{
     font-weight: 700;
     padding: 10px 20px;
     border-radius: 10px;
+}
+.iop{
+    color: yellowgreen;
+    text-shadow: 5px 0px 7px gray;
+}
+.web-font{
+    font-size: 40px;
+}
+.expereinc{
+    background-image: url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: right 18px;
+}
+footer p{
+    text-align: center;
 }
